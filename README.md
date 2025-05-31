@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ritesh Kumar</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riteshh45&label=Profile%20views&color=0e75b6&style=flat" alt="riteshh45" /> </p>
 
 - 🔭 I’m currently working on **Blog Website.**
 
-- 🌱 I’m currently learning **Python, AI/ML.**
+- 🌱 I’m currently learning **Python.**
 
 - 👯 I’m looking to collaborate on **open-source contributions, and web applications that solve real-world problems.**
 
